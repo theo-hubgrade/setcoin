@@ -1,0 +1,2 @@
+# setcoin
+Personal coinbase
