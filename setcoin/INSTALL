@@ -1,0 +1,9 @@
+Building Setcoin
+
+See doc/readme-qt.rst for instructions on building Setcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Setcoin.
+
+See doc/build-*.txt for instructions on building setcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Setcoin.
